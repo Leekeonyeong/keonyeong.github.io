@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>웹디자이너 이건영 포트폴리오</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- Custom styles for this template -->
+    <link href="css/freelancer.min.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">WEBDESIGN PORTFOLIO</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fa fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="masthead">
+      <div class="container">
+	  <img class="img-fluid" src="img/webdesign.png" alt="">
+        <div class="intro-text">
+          <span class="name">LEE KEON YEONG</span>
+          <hr class="star-light">
+          <span class="skills">Web / Mobile / Design</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Portfolio Grid Section -->
+    <section id="portfolio">
+      <div class="container">
+        <h2 class="text-center">Portfolio</h2>
+        <hr class="star-primary">
+        <div class="row">
+          <div class="col-sm-4 portfolio-item">
+            <a class="portfolio-link" href="#portfolioModal1" data-toggle="modal">
+              <div class="caption">
+                <div class="caption-content">
+                  <h4 class="text-center">웹사이트시안 <i class="fa fa-search-plus"></i></h4>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/portfolio/thumb1.png" alt="">
+            </a>
+          </div>
+          <div class="col-sm-4 portfolio-item">
+            <a class="portfolio-link" href="#portfolioModal2" data-toggle="modal">
+              <div class="caption">
+                <div class="caption-content">
+                  <h4 class="text-center">이벤트페이지 <i class="fa fa-search-plus"></i></h4>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/portfolio/thumb2.png" alt="">
+            </a>
+          </div>
+          <div class="col-sm-4 portfolio-item">
+            <a class="portfolio-link" href="#portfolioModal3" data-toggle="modal">
+              <div class="caption">
+                <div class="caption-content">
+                  <h4 class="text-center">카드뉴스 <i class="fa fa-search-plus"></i></h4>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/portfolio/thumb3.png" alt="">
+            </a>
+          </div>
+          <div class="col-sm-4 portfolio-item">
+            <a class="portfolio-link" href="#portfolioModal4" data-toggle="modal">
+              <div class="caption">
+                <div class="caption-content">
+                 <h4 class="text-center">모바일디자인 <i class="fa fa-search-plus"></i></h4>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/portfolio/thumb4.png" alt="">
+            </a>
+          </div>
+          <div class="col-sm-4 portfolio-item">
+            <a class="portfolio-link" href="#portfolioModal5" data-toggle="modal">
+              <div class="caption">
+                <div class="caption-content">
+                  <h4 class="text-center">인쇄물 <i class="fa fa-search-plus"></i></h4>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/portfolio/thumb5.png" alt="">
+            </a>
+          </div>
+          <div class="col-sm-4 portfolio-item">
+            <a class="portfolio-link" href="#portfolioModal6" data-toggle="modal">
+              <div class="caption">
+                <div class="caption-content">
+                  <h4 class="text-center">일본어 <i class="fa fa-search-plus"></i></h4>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/portfolio/thumb6.png" alt="">
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="success" id="about">
+      <div class="container">
+        <h2 class="text-center">Profile</h2>
+        <hr class="star-light">
+        <div class="row">
+          <div class="col-lg-3 ml-auto">
+            <img class="img-fluid" src="img/profile.png" alt="">
+          </div>
+          <div class="col-lg-5 mr-auto">
+			<p></p>
+			<h4>이건영 Lee Keon Yeong</h4>
+			<p></p>
+            <p>1987.05.25</p>
+			<p>웹디자이너 경력 3년</p>
+			<p></p>
+			<p></p>
+			<h4>사용기술</h4>
+			<p></p>
+            <p>Photoshop/Illustrator/HTML5/CSS3/Javascript/Bootstrap</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+      <div class="container">
+        <h2 class="text-center">Contact Me</h2>
+        <hr class="star-primary">
+			<h3 class="text-center">E-Mail : <a href="mailto:lkypipipi@gmail.com">lkypipipi@gmail.com</a></h3>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="text-center">
+      <div class="footer-below">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              Copyright &copy; Lee Keon Yeong 2017
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+    <div class="scroll-top d-lg-none">
+      <a class="btn btn-primary js-scroll-trigger" href="#page-top">
+        <i class="fa fa-chevron-up"></i>
+      </a>
+    </div>
+
+    <!-- Portfolio Modals -->
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog modal-fullsize" role="document">
+        <div class="modal-content modal-fullsize">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <h2>웹사이트시안</h2>
+                  <hr class="star-primary">
+                  <img class="img-fluid img-centered" src="img/portfolio/webpage.png" alt="">
+				  <h6>PC화면</h6>
+                  <img class="img-fluid img-centered" src="img/portfolio/foodshare.png" alt="">
+				  <h6>스마트폰화면</h6>
+				  <img class="img-fluid img-centered" src="img/portfolio/foodsharemobile.png" alt="">
+                  <p>포토샵을 이용하여 사이트 시안을 제작하고 HTML/CSS로 구현.</p>
+                  <p>Bootstrap을 활용하여 PC와 스마트폰 화면에 맞게 변하는 반응형 웹페이지 구현</p>
+                  <button class="btn btn-success" type="button" data-dismiss="modal">
+                    <i class="fa fa-times"></i>
+                    Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog modal-fullsize" role="document">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <h2>이벤트/배너</h2>
+                  <hr class="star-primary">
+                  <img class="img-fluid img-centered" src="img/portfolio/promotion1.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/event1.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/banner1.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/banner4.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/banner3.jpg" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/banner2.jpg" alt="">
+                  <p>쇼핑몰 등 각종 웹사이트에서 사용하는 이벤트 페이지와 배너 디자인</p>
+                  <button class="btn btn-success" type="button" data-dismiss="modal">
+                    <i class="fa fa-times"></i>
+                    Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog modal-fullsize" role="document">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <h2>카드뉴스</h2>
+                  <hr class="star-primary">
+                  <img class="img-fluid img-centered" src="img/portfolio/card1.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/card2.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/card3.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/card4.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/card5.png" alt="">
+                  <p>스마트폰 시대에 맞춘 신개념 미디어</p>
+                  <button class="btn btn-success" type="button" data-dismiss="modal">
+                    <i class="fa fa-times"></i>
+                    Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog modal-fullsize" role="document">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <h2>모바일</h2>
+                  <hr class="star-primary">
+                  <img class="img-fluid img-centered" src="img/portfolio/mobile0.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/mobile4.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/mobile5.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/mobile6.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/mobile1.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/mobile2.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/mobile3.png" alt="">
+                  <p>모바일 어플 UI/UX 아이콘 디자인</p>
+                  <button class="btn btn-success" type="button" data-dismiss="modal">
+                    <i class="fa fa-times"></i>
+                    Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog modal-fullsize" role="document">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <h2>인쇄물</h2>
+                  <hr class="star-primary">
+                  <img class="img-fluid img-centered" src="img/portfolio/namefront.png" alt="">
+                  <img class="img-fluid img-centered" src="img/portfolio/nameback.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/print1.png" alt="">
+                  <img class="img-fluid img-centered" src="img/portfolio/print2.png" alt="">
+                  <p>명함/배포용 부채 등의 인쇄물 디자인</p>
+                  <button class="btn btn-success" type="button" data-dismiss="modal">
+                    <i class="fa fa-times"></i>
+                    Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog modal-fullsize" role="document">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <h2>일본어</h2>
+                  <hr class="star-primary">
+                  <img class="img-fluid img-centered" src="img/portfolio/japan1.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/japan4.png" alt="">
+                  <img class="img-fluid img-centered" src="img/portfolio/japan2.png" alt="">
+				  <img class="img-fluid img-centered" src="img/portfolio/japan3.png" alt="">
+                  <p>라쿠텐, 야후 등 일본 쇼핑몰에 사용할 수 있는 일본어 배너 제작가능</p>
+                  <button class="btn btn-success" type="button" data-dismiss="modal">
+                    <i class="fa fa-times"></i>
+                    Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/freelancer.min.js"></script>
+
+  </body>
+
+</html>
